@@ -1,6 +1,6 @@
 # Namoza Developer Assignment — OrthoNow
 
-**Submitted by:** Shubham Nishad
+**Submitted by:** Gagan kumar
 **Role:** Developer — Position 1 (Client Web + Martech)
 **Client:** OrthoNow — 9-clinic orthopaedic chain across Bengaluru, Hyderabad & Chennai
 
